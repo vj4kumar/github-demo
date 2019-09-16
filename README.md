@@ -1,2 +1,2 @@
 # github-demo
-demo gitub workflow
+demo github workflow
